@@ -1,0 +1,5 @@
+Ques: How do you reverse a given string in place?
+Ans: To reverse a string in python we can use the method of slicing by 
+passing the first two parameters blank and -1 one in third parameter
+which will decrease the index value and starts negative indexing which led
+to print the string in reverse order untill the whole string is traversed.
